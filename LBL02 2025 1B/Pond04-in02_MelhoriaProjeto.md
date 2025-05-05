@@ -6,6 +6,8 @@ Os grupos devem elaborar e registrar **melhorias de usabilidade ou acessibilidad
 
 ## Entrega
 
+**Atividade em Grupo**
+
 - Criar um **Documento de Melhorias** para o projeto do grupo, com imagens e textos explicativos (em repositório no GitHub ou em PDF), conforme as instruções abaixo
 - Inserir o link do documento no **card da Adalove** *(todos os integrantes do grupo devem realizar a entrega individual pela Adalove)*
 
