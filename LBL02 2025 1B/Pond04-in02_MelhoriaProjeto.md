@@ -2,12 +2,12 @@
 
 ## Objetivo
 
-Elaborar e registrar **melhorias de usabilidade ou acessibilidade** implementáveis no **projeto do módulo**, com base nos princípios discutidos em instrução (heurísticas de Nielsen, diretrizes WCAG, boas práticas de UX, usabilidade e acessibilidade).
+Os grupos devem elaborar e registrar **melhorias de usabilidade ou acessibilidade** implementáveis no **projeto do módulo**, com base nos princípios discutidos em instrução (heurísticas de Nielsen, diretrizes WCAG, boas práticas de UX, usabilidade e acessibilidade).
 
 ## Entrega
 
-- Criar um **Documento de Melhorias**, com imagens e textos explicativos (em repositório no GitHub ou em PDF), conforme as instruções abaixo
-- Inserir o link do documento no **card da Adalove** *(todos os integrantes do grupo devem realizar a entrega individual pela AdaLove)*
+- Criar um **Documento de Melhorias** para o projeto do grupo, com imagens e textos explicativos (em repositório no GitHub ou em PDF), conforme as instruções abaixo
+- Inserir o link do documento no **card da Adalove** *(todos os integrantes do grupo devem realizar a entrega individual pela Adalove)*
 
 **Prazo de Entrega:** até sexta-feira, 23h59
 
